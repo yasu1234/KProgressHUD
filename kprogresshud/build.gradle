@@ -48,7 +48,7 @@ ext {
     bintrayName = 'KProgressHUD'
 
     publishedGroupId = 'com.kaopiz'
-    libraryName = 'kprogresshudCustom'
+    libraryName = 'kprogresshud'
     artifact = 'kprogresshud'
 
     libraryDescription = 'A customizable ProgressHUD for Android'
