@@ -59,7 +59,7 @@ public class KProgressHUD {
         mProgressDialog = new ProgressDialog(context);
         mDimAmount = 0;
         //noinspection deprecation
-        mWindowColor = context.getResources().getColor(R.color.kprogresshud_default_color);
+        mWindowColor = context.getResources().getColor(R.color.kprogresshud_custom_background_color);
         mAnimateSpeed = 1;
         mCornerRadius = 10;
         mIsAutoDismiss = true;
